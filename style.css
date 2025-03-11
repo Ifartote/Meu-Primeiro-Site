@@ -42,7 +42,9 @@ body {
 body{
   
   background-color: rgba(230, 230, 230, 0.54);
+}
+.formulario{
+  padding: 8px 10px 10px 10px;
   
 }
-
 
