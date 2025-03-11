@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.titulo{
+background-color:darkblue;
+padding: 18px;
+text-align: center;
+color: aliceblue;
+}
+.link, a {
+background-color: rgb(0, 0, 0);
+padding: 5px;
+text-align: center;
+color: white;
+text-decoration: none;
+
+
+}
