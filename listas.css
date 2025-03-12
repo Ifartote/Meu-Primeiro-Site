@@ -1,0 +1,21 @@
+*{
+    
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:black; 
+    padding: 14px;
+}
+h3, li{
+    text-align: left;
+}
+.titulo{
+    background-color: rgb(134, 138, 141);
+    padding:18px 16px;
+    margin:0;   
+}
+a{
+    text-decoration: none;
+    color:black
+}

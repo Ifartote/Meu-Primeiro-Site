@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-color: rgba(230, 230, 230, 0.54);
+}
+h1{
+    background-color: dimgray;
+    padding: 18px;
+    margin:0;
+}
+a{
+    text-decoration: none;
+    color:black
+}
+
