@@ -1,6 +1,8 @@
 *{
     text-align: center;
     background-color: rgba(230, 230, 230, 0.54);
+    padding: 0;
+    margin: 0;
 }
 h1{
     background-color: dimgray;
