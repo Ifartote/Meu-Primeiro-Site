@@ -1,32 +1,42 @@
 
 * {
   box-sizing: border-box;
-
+  
 }
 
 body {
-  margin: 0;
+  margin: 0; 
 }
 
 .titulo {
   background-color: rgb(75, 75, 75);
   text-align: center;
   padding: 18px 16px;
+  letter-spacing: 7px;
 }
 
 .link {
   background-color: rgb(134, 138, 141);
   text-align: center;
   padding: 8px;
+  border:2px solid black;
   a {
     text-decoration: none;
     color: black;
+    padding:4px;
+    
   }
+  a:hover{
+    background-color: rgb(84, 85, 86);
+    padding: 6px;
+    border-radius: 2px;
+  }
+
 }
 
 .conteudo {
   
-  padding: 14px;
+  margin-left:14px;
 
 }
 
@@ -48,4 +58,3 @@ body{
   padding: 8px 10px 10px 10px;
   
 }
-
